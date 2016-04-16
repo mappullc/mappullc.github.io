@@ -1,0 +1,27 @@
+header{
+font-family:"ClearSans-Thin";
+}
+
+body{
+padding-left: 5em;
+padding-right: 5em;
+font-family: ClearSans,sans;
+}
+address{
+margin-top: 2em;
+padding-top: 1em;
+border-top: thin dotted;
+}
+@font-face{
+font-family:"ClearSans";
+src: url("fonts/ClearSans-Regular.ttf") format('truetype');
+}
+@font-face{
+font-family:"ClearSans";
+src: url("fonts/ClearSans-Italic.ttf") format('truetype');
+font-style: italic;
+}
+@font-face{
+font-family:"ClearSans-Thin";
+src: url("fonts/ClearSans-Thin.ttf") format('truetype');
+}
