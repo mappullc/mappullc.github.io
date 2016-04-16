@@ -14,14 +14,14 @@ border-top: thin dotted;
 }
 @font-face{
 font-family:"ClearSans";
-src: url("fonts/ClearSans-Regular.ttf") format('truetype');
+src: url("fonts/ClearSans-Regular.woff") format('woff');
 }
 @font-face{
 font-family:"ClearSans";
-src: url("fonts/ClearSans-Italic.ttf") format('truetype');
+src: url("fonts/ClearSans-Italic.woff") format('woff');
 font-style: italic;
 }
 @font-face{
 font-family:"ClearSans-Thin";
-src: url("fonts/ClearSans-Thin.ttf") format('truetype');
+src: url("fonts/ClearSans-Thin.woff") format('woff');
 }
